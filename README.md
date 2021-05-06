@@ -41,7 +41,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="moise's GitHub Stats" src="https://github-readme-stats.chiefmky.vercel.app/api?username=chiefmky&show_icons=true&hide_border=true" />
+  [![Moise's GitHub stats](https://github-readme-stats.vercel.app/api?username=chiefmky)](https://github.com/chiefmky/github-readme-stats)
 
 </details>
 
