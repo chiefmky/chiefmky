@@ -41,7 +41,8 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  [![Moise's GitHub stats](https://github-readme-stats.vercel.app/api?username=chiefmky)](https://github.com/chiefmky/github-readme-stats)
+  <!-- [![Moise's GitHub stats](https://github-readme-stats.vercel.app/api?username=chiefmky)](https://github.com/chiefmky/github-readme-stats) -->
+  ![Moise's GitHub stats](https://github-readme-stats.vercel.app/api?username=chiefmky&show_icons=true&theme=radical)
 
 </details>
 
