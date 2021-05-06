@@ -45,21 +45,10 @@
 
 </details>
 
----
-
 <details>
   <summary>:zap: Most Used Languages</summary>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiefmky&layout=compact)](https://github.com/chiefmky/github-readme-stats)
-
-</details>
-
----
-
-<details>
-  <summary>:zap: Week Stat Times</summary>
-
-  [![Moise's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chiefmky)](https://github.com/chiefmky/github-readme-stats)
 
 </details>
 
