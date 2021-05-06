@@ -1,5 +1,5 @@
 ### Hi there, I'm Moise - aka [Chiefmky][linkedin] 👋
-[![Moise's GitHub stats](https://github-readme-stats.vercel.app/api?username=chiefmky)](https://github.com/chiefmky/github-readme-stats)
+
 ## I'm a son of The Congo!!
 
 - 🌱 I’m currently learning everything 🤣
@@ -37,6 +37,15 @@
 
 <br />
 <br />
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="moise's GitHub Stats" src="https://github-readme-stats.chiefmky.vercel.app/api?username=chiefmky&show_icons=true&hide_border=true" />
+
+</details>
+
+---
 
 [leetcode]: http://leetcode.com/chiefmky/ 
 [hackerrank]: http://hackerrank.com/mosesmokoy
