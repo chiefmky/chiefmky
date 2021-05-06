@@ -38,6 +38,8 @@
 <br />
 <br />
 
+---
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
@@ -48,11 +50,9 @@
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiefmky&layout=compact)](https://github.com/chiefmky/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiefmky&layout=compact&langs_count=10)](https://github.com/chiefmky/github-readme-stats)
 
 </details>
-
----
 
 [leetcode]: http://leetcode.com/chiefmky/ 
 [hackerrank]: http://hackerrank.com/mosesmokoy
