@@ -41,8 +41,25 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <!-- [![Moise's GitHub stats](https://github-readme-stats.vercel.app/api?username=chiefmky)](https://github.com/chiefmky/github-readme-stats) -->
   ![Moise's GitHub stats](https://github-readme-stats.vercel.app/api?username=chiefmky&show_icons=true&theme=radical)
+
+</details>
+
+---
+
+<details>
+  <summary>:zap: Most Used Languages</summary>
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiefmky&layout=compact)](https://github.com/chiefmky/github-readme-stats)
+
+</details>
+
+---
+
+<details>
+  <summary>:zap: Week Stat Times</summary>
+
+  [![Moise's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chiefmky&layout=compact)](https://github.com/chiefmky/github-readme-stats)
 
 </details>
 
