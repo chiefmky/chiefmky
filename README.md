@@ -40,19 +40,19 @@
 
 ---
 
-<details>
+<!-- <details> -->
   <summary>:zap: GitHub Stats</summary>
 
   ![Moise's GitHub stats](https://github-readme-stats.vercel.app/api?username=chiefmky&show_icons=true&theme=radical)
 
-</details>
+<!-- </details> -->
 
-<details>
+<!-- <details> -->
   <summary>:zap: Most Used Languages</summary>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiefmky&layout=compact&langs_count=10)](https://github.com/chiefmky/github-readme-stats)
 
-</details>
+<!-- </details> -->
 
 [leetcode]: http://leetcode.com/chiefmky/ 
 [hackerrank]: http://hackerrank.com/mosesmokoy
