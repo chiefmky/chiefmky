@@ -1,6 +1,6 @@
 ### Hi there, I'm Moise - aka [Chiefmky][linkedin] 👋
 
-## I'm a son of the Democratic Republic of the Congo!!
+## I'm a son of The Congo!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content developers
