@@ -59,7 +59,7 @@
 <details>
   <summary>:zap: Week Stat Times</summary>
 
-  [![Moise's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chiefmky&layout=compact)](https://github.com/chiefmky/github-readme-stats)
+  [![Moise's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chiefmky)](https://github.com/chiefmky/github-readme-stats)
 
 </details>
 
